@@ -1,4 +1,5 @@
 # crud_dasar_dan_login
-Tes
-'email'=>'admin@gmail.com',
-            'password'=>Hash::make('admin123')
+Silahkan klik langsung file .zip langsung download seluruh isi software nya beserta vendor nya.
+Tes buat login
+email = admin@gmail.com
+password =  admin123
